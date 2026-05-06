@@ -1,5 +1,6 @@
 .venv/
-dataset_v2/
+data/
 __pycache__/
 *.csv
 *.pcap
+*.parquet
